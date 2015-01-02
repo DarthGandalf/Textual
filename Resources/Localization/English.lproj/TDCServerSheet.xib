@@ -1329,6 +1329,8 @@ Gw
                                 <menuItem isSeparatorItem="YES" id="1908"/>
                                 <menuItem title="SOCKS 4 Proxy" tag="4" id="1911"/>
                                 <menuItem title="SOCKS 5 Proxy" tag="5" id="1910"/>
+                                <menuItem title="HTTP Proxy" tag="6" id="AhN-tk-pME"/>
+                                <menuItem title="HTTPS Proxy" tag="7" id="YjH-su-oqE"/>
                                 <menuItem title="System SOCKS Proxy" state="on" tag="1" id="1909">
                                     <modifierMask key="keyEquivalentModifierMask"/>
                                 </menuItem>
